@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+    <head>
+        <title>Podcast Feeds</title>
+    </head>
+
+    <body>
+    <outline text="feeds">
+            <outline type="rss" text="Mythology" xmlUrl="https://feeds.megaphone.fm/mythology" />
+            <outline type="rss" text="Eat Your Way To A Healthier Life" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510328" />
+            <outline type="rss" text="Murderville" xmlUrl="https://rss.prod.firstlook.media/murderville/podcast.rss" />
+            <outline type="rss" text="Secrets Of Saving And Investing" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510330" />
+            <outline type="rss" text="Exercise: Learn To Love (Or At Least Like) It" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510329" />
+            <outline type="rss" text="Conan O’Brien Needs A Friend" xmlUrl="https://rss.art19.com/conan-obrien" />
+            <outline type="rss" text="Imaginary Worlds" xmlUrl="https://feeds.megaphone.fm/PP5304354299" />
+            <outline type="rss" text="Monstruo" xmlUrl="https://rss.art19.com/monstruo" />
+            <outline type="rss" text="Travel Genius" xmlUrl="https://feeds.megaphone.fm/travelgenius" />
+            <outline type="rss" text="Find Money You Didn&#39;t Know You Had" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510331" />
+            <outline type="rss" text="Ologies" xmlUrl="http://feeds.feedburner.com/Ologies" />
+            <outline type="rss" text="The Joe Rogan Experience" xmlUrl="http://joeroganexp.joerogan.libsynpro.com/rss" />
+            <outline type="rss" text="It&#39;s A Thing" xmlUrl="http://feeds.feedburner.com/itsathing/cCoG" />
+            <outline type="rss" text="The Numberphile Podcast" xmlUrl="https://www.numberphile.com/podcast?format&#61;rss" />
+            <outline type="rss" text="Outlook" xmlUrl="https://podcasts.files.bbci.co.uk/p02s5rx7.rss" />
+            <outline type="rss" text="Broken Harts" xmlUrl="https://feeds.megaphone.fm/HSW2732644812" />
+            <outline type="rss" text="Strong Songs" xmlUrl="http://strongsongs.libsyn.com/rss" />
+            <outline type="rss" text="The Dream" xmlUrl="https://rss.art19.com/the-dream" />
+            <outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" />
+            <outline type="rss" text="Caliphate" xmlUrl="https://rss.art19.com/caliphate" />
+            <outline type="rss" text="Slow Burn" xmlUrl="http://feeds.megaphone.fm/watergate" />
+            <outline type="rss" text="Monster" xmlUrl="https://feeds.megaphone.fm/atlantamonster" />
+            <outline type="rss" text="Mind’s Eye" xmlUrl="https://feeds.megaphone.fm/mindseye" />
+            <outline type="rss" text="IRL - Online Life Is Real Life" xmlUrl="https://feeds.mozilla-podcasts.org/irl" />
+            <outline type="rss" text="The Daily" xmlUrl="http://rss.art19.com/the-daily" />
+            <outline type="rss" text="Reply All" xmlUrl="HTTP://Feeds.gimletmedia.com/hearreplyall" />
+            <outline type="rss" text="Bag Man" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/bagman.xml" />
+            <outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
+            <outline type="rss" text="Dan Carlin&#39;s Hardcore History" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format&#61;xml" />
+            <outline type="rss" text="Dr. Death" xmlUrl="https://rss.art19.com/dr-death" />
+            <outline type="rss" text="Unobscured" xmlUrl="https://feeds.megaphone.fm/unobscured" />
+            <outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />
+            <outline type="rss" text="Bear Brook" xmlUrl="https://feeds.megaphone.fm/bearbrook" />
+            <outline type="rss" text="Stuff You Should Know" xmlUrl="https://feeds.megaphone.fm/stuffyoushouldknow" />
+            <outline type="rss" text="Dark Tank" xmlUrl="http://darktank.libsyn.com/rss" />
+            <outline type="rss" text="The End Of The World with Josh Clark" xmlUrl="https://feeds.megaphone.fm/HSW2707885722" />
+            <outline type="rss" text="THE ADAM BUXTON PODCAST" xmlUrl="http://rss.acast.com/adambuxton" />
+            <outline type="rss" text="Without Fail" xmlUrl="https://feeds.megaphone.fm/withoutfail" />
+            <outline type="rss" text="Off Menu with Ed Gamble and James Acaster" xmlUrl="https://rss.acast.com/offmenu" />
+            <outline type="rss" text="Headlong: Surviving Y2K" xmlUrl="https://rss.prod.firstlook.media/missingrichardsimmons/podcast.rss" />
+            <outline type="rss" text="King and the Sting" xmlUrl="https://feeds.megaphone.fm/kingandthesting" />
+            <outline type="rss" text="Aria Code" xmlUrl="http://feeds.wnyc.org/aria-code" />
+            <outline type="rss" text="Malicious Life" xmlUrl="https://malicious.life/feed/podcast/" />
+            <outline type="rss" text="Planet Money" xmlUrl="http://www.npr.org/rss/podcast.php?id&#61;510289" />
+            <outline type="rss" text="Future Perfect" xmlUrl="https://rss.art19.com/future-perfect" />
+            <outline type="rss" text="The TED Interview" xmlUrl="https://feeds.feedburner.com/TedInterview" />
+            <outline type="rss" text="Armchair Expert with Dax Shepard" xmlUrl="https://rss.simplecast.com/podcasts/4123/rss" />
+            <outline type="rss" text="Hidden Brain" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510308" />
+            <outline type="rss" text="The Peter Attia Drive" xmlUrl="http://peterattiadrive.libsyn.com/rss" />
+            <outline type="rss" text="Revisionist History" xmlUrl="https://feeds.megaphone.fm/revisionisthistory" />
+            <outline type="rss" text="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" />
+            <outline type="rss" text="Ear Hustle" xmlUrl="http://feeds.earhustlesq.com/earhustlesq" />
+            <outline type="rss" text="Science Vs" xmlUrl="http://feeds.gimletmedia.com/sciencevs" />
+            <outline type="rss" text="Waking Up with Sam Harris" xmlUrl="http://wakingup.libsyn.com/rss" />
+            <outline type="rss" text="Sleep With Me" xmlUrl="http://feeds.nightvalepresents.com/sleepwithme" />
+            <outline type="rss" text="In the Dark" xmlUrl="https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss" />
+            <outline type="rss" text="The Allusionist" xmlUrl="http://feeds.theallusionist.org/Allusionist" />
+            <outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
+            <outline type="rss" text="Lore" xmlUrl="Http://lorepodcast.libsyn.com/rss" />
+            <outline type="rss" text="Invention" xmlUrl="https://feeds.megaphone.fm/HSW8936440627" />
+            <outline type="rss" text="Broken Record with Malcolm Gladwell and Rick Rubin" xmlUrl="https://feeds.megaphone.fm/broken-record" />
+            <outline type="rss" text="60-Second Science" xmlUrl="https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id&#61;60-second-science" />
+            <outline type="rss" text="The Teacher&#39;s Pet" xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/3289" />
+            <outline type="rss" text="Casefile True Crime" xmlUrl="https://audioboom.com/channels/4940872.rss" />
+            <outline type="rss" text="Behind the Bastards" xmlUrl="https://feeds.megaphone.fm/behindthebastards" />
+            <outline type="rss" text="Uncover" xmlUrl="https://www.cbc.ca/podcasting/includes/uncover.xml" />
+            <outline type="rss" text="My Dad Wrote A Porno" xmlUrl="http://rss.acast.com/mydadwroteaporno" />
+            <outline type="rss" text="Last Seen" xmlUrl="https://rss.wbur.org/lastseen/podcast" />
+            <outline type="rss" text="Dirty John" xmlUrl="https://rss.art19.com/dirty-john" />
+            <outline type="rss" text="Believed" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510326" />
+            <outline type="rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" xmlUrl="https://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark-fb" />
+            <outline type="rss" text="How to Money" xmlUrl="https://feeds.megaphone.fm/HSW9903314957" />
+            <outline type="rss" text="Proof" xmlUrl="https://rss.art19.com/proof" />
+            <outline type="rss" text="The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" />
+            <outline type="rss" text="How I Built This with Guy Raz" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510313" />
+            <outline type="rss" text="TED Radio Hour" xmlUrl="http://www.npr.org/rss/podcast.php?id&#61;510298" />
+            <outline type="rss" text="Everything is Alive" xmlUrl="http://feeds.everythingisalive.com/everythingisalive" />
+            <outline type="rss" text="Wolverine: The Long Night" xmlUrl="https://rss.art19.com/wolverine-the-long-night" />
+            <outline type="rss" text="The Indicator from Planet Money" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510325" />
+            <outline type="rss" text="Heavyweight" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" />
+            <outline type="rss" text="Short Stuff" xmlUrl="https://feeds.megaphone.fm/HSW5700683215" />
+            <outline type="rss" text="Criminal" xmlUrl="http://feeds.thisiscriminal.com/CriminalShow" />
+            <outline type="rss" text="Today, Explained" xmlUrl="https://rss.art19.com/today-explained" />
+            <outline type="rss" text="Heston&#39;s Pod &amp; Chips" xmlUrl="https://audioboom.com/channels/4977433.rss" />
+            <outline type="rss" text="Happy Face" xmlUrl="https://feeds.megaphone.fm/happyface" />
+            <outline type="rss" text="Post Reports" xmlUrl="https://podcast.posttv.com/itunes/post-reports.xml" />
+            <outline type="rss" text="TED Talks Daily" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" />
+            <outline type="rss" text="The Ezra Klein Show" xmlUrl="https://rss.art19.com/the-ezra-klein-show" />
+            <outline type="rss" text="Invisibilia" xmlUrl="https://www.npr.org/rss/podcast.php?id&#61;510307" />
+            <outline type="rss" text="Song Exploder" xmlUrl="http://songexploder.libsyn.com/rss" />
+            <outline type="rss" text="S-Town" xmlUrl="http://feeds.stownpodcast.org/stownpodcast" />
+            <outline type="rss" text="The City" xmlUrl="https://rss.art19.com/the-city" />
+            <outline type="rss" text="The Jordan B. Peterson Podcast" xmlUrl="https://feeds.blubrry.com/feeds/jordanbpeterson.xml" />
+            <outline type="rss" text="The Dollop with Dave Anthony and Gareth Reynolds" xmlUrl="http://thedollop.libsyn.com/rss" />
+            <outline type="rss" text="Bon Appétit Foodcast" xmlUrl="http://feeds.megaphone.fm/BNA1294372600" />
+            <outline type="rss" text="Household Name" xmlUrl="https://rss.art19.com/household-name" />
+            <outline type="rss" text="Crime Junkie" xmlUrl="https://feeds.megaphone.fm/ADL9840290619" />
+            <outline type="rss" text="The Habitat" xmlUrl="https://feeds.megaphone.fm/thehabitat" />
+            <outline type="rss" text="Chapo" xmlUrl="https://rss.art19.com/chapo-vice" />
+            <outline type="rss" text="Monday Morning Podcast" xmlUrl="http://billburr.libsyn.com/rss" />
+    </outline>
+    </body>
+</opml>
